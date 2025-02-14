@@ -2,7 +2,7 @@
 
 ## Prerequisites
 
-1. ** DownloadVisual Studio or MinGW**
+1. **DownloadVisual Studio or MinGW**
 
 2. **Download CMake**
 
