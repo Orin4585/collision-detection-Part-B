@@ -1,0 +1,4 @@
+D:/Open GL/Part 1/Part B (circle and rectangle)/build/CMakeFiles/CollisionSimulation.dir
+D:/Open GL/Part 1/Part B (circle and rectangle)/build/CMakeFiles/test_installation.dir
+D:/Open GL/Part 1/Part B (circle and rectangle)/build/CMakeFiles/ALL_BUILD.dir
+D:/Open GL/Part 1/Part B (circle and rectangle)/build/CMakeFiles/ZERO_CHECK.dir
