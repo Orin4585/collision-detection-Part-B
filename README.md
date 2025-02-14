@@ -2,16 +2,11 @@
 
 ## Prerequisites
 
-1. **Visual Studio or MinGW**
-   - Download Visual Studio Community Edition from: https://visualstudio.microsoft.com/downloads/
-   - During installation, select "Desktop development with C++"
+1. ** DownloadVisual Studio or MinGW**
 
-2. **CMake**
-   - Download from: https://cmake.org/download/
-   - Make sure to add CMake to system PATH during installation
+2. **Download CMake**
 
-3. **StarUML**
-   - Download from: https://staruml.io/download
+3. **Download StarUML**
 
 ## Building the Project
 
